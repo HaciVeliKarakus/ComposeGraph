@@ -1,2 +1,2 @@
-<img src="screenshots/dashboard_android.png" width="200">
-<img src="screenshots/dashboard_ios.jpg" width="200">
+<img src="ss/android.png" width="200">
+<img src="ss/mac.png" width="200">
